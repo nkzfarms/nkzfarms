@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nkzfarms
 - 👀 I’m interested in nft minting, jobs and employment
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on website design and development worrdpress and elementor
+- 💞️ I’m looking to collaborate on website design/development with wordpress and elementor
 - 📫 How to reach me nkzfarms@gmail.com
 
 <!---
