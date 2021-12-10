@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nkzfarms
-- 👀 I’m interested in jobs and employment
+- 👀 I’m interested in nft minting, jobs and employment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on website design and development worrdpress and elementor
 - 📫 How to reach me nkzfarms@gmail.com
